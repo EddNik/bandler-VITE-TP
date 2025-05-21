@@ -1,11 +1,11 @@
 {
-  "name": "bandler-VITE-TP",
+  "name": "404-not-founders",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/bandler-VITE-TP/",
+    "build": "vite build --base=/404-not-founders/",
     "preview": "vite preview"
   },
   "devDependencies": {
